@@ -27,3 +27,6 @@ Pandas is a powerful data manipulation library in Python. It provides data struc
 4. Matplotlib and Seaborn:
 Matplotlib and Seaborn are libraries for creating static, animated, and interactive visualizations in Python. Matplotlib provides a comprehensive set of plotting tools, while Seaborn simplifies the creation of aesthetically pleasing statistical graphics. Both are utilized for data visualization in this project.
 
+Project Demo Video:
+
+Check out the project demo on LinkedIn(https://shorturl.at/efAHZ) to see the code in action.
